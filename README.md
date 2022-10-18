@@ -3,7 +3,7 @@ Programa en el cual se maneja las notificaciones del celular por medio de un bot
 
 La aplicación cuenta con un botón con el nombre de "MOSTRAR NOTIFICACIONES"
 
-![Notificaciones](https://user-images.githubusercontent.com/108247794/196557304-f726c66e-4af9-4f15-9084-74755c7c4cc0.png)
+![Notificaciones](https://user-images.githubusercontent.com/108247794/196557613-e0c093b2-e9f0-44a1-ad10-8fb1ed0fd71b.png)
 
 Cuando el usuario presiona el botón, la aplicación va a mostrar una notificación
 
