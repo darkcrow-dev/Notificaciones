@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Boton_Notificaciones = findViewById(R.id.button_notification)
+        Boton_Notificaciones = findViewById(R.id.button_notification)       //Boton para las notificaciones
 
         crearCanalDeNotificacion()
 
